@@ -1,7 +1,7 @@
 # numpy-random-assignment
 Programming for Data Analysis Assignment: An investigation into the numpy.random package. 
 Please open numpy-random.ipynb in Jupyterlab or Jupyter notebook .
-click the Kernel botton and select Restart & Run All. 
+click the Kernel button and select Restart & Run All. 
 when the pop window appear select Restart and Run All Cells. 
 1. Overall purpose of numpy.random package
     1.1 Simulating coin toss
